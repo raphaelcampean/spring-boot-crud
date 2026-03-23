@@ -11,5 +11,5 @@ Este repositório contém uma API REST para gestão de utilizadores, desenvolvid
 
 ## ⚙️ Como rodar
 ```bash
-mvn clean install -DskipTests
+mvn clean install
 mvn spring-boot:run
